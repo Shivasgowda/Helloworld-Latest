@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to Devops Class</title>
+<title>Welcome to DevopsClass</title>
 <style>
   body {
     background-color: pink;
