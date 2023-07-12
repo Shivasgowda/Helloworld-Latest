@@ -3,15 +3,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to XYZ BANK</title>
+<title>Welcome to Devops Class</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: pink;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to ABC BANK</h1>
+<h1>Welcome to DEVOPS ENGINEER</h1>
 <p>This is a sample Welcome to XYZ BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
