@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to DevopsClass</title>
+<title>Task-2 of MCQ CICD Pipeline</title>
 <style>
   body {
-    background-color: green;
+    background-color: pink;
   }
 </style>
 </head>
