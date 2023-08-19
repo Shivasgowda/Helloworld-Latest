@@ -6,7 +6,7 @@
 <title>Task-2 of MCQ CICD Pipeline</title>
 <style>
   body {
-    background-color: pink;
+    background-color: red;
   }
 </style>
 </head>
